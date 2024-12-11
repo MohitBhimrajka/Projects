@@ -1,0 +1,149 @@
+{
+  "companies": [
+    {
+      "name": "Google",
+      "info": {
+        "industry": "Technology",
+        "headquarters": "Mountain View, CA",
+        "website": "https://www.google.com",
+        "founded": 1998
+      },
+      "interview_process": {
+        "rounds": [
+          "Online Assessment",
+          "Technical Phone Screen",
+          "Onsite Interviews",
+          "HR Round"
+        ],
+        "focus_areas": [
+          "Algorithms",
+          "Data Structures",
+          "System Design",
+          "Behavioral Questions"
+        ]
+      },
+      "tech_stack": [
+        "Python",
+        "Java",
+        "C++",
+        "Go",
+        "Kubernetes",
+        "TensorFlow"
+      ]
+    },
+    {
+      "name": "Infosys",
+      "info": {
+        "industry": "IT Services",
+        "headquarters": "Bengaluru, India",
+        "website": "https://www.infosys.com",
+        "founded": 1981
+      },
+      "interview_process": {
+        "rounds": [
+          "Aptitude Test",
+          "Technical Interview",
+          "HR Interview"
+        ],
+        "focus_areas": [
+          "Programming Concepts",
+          "Problem Solving",
+          "Communication Skills"
+        ]
+      },
+      "tech_stack": [
+        "Java",
+        "Python",
+        "SAP",
+        "Cloud Services",
+        "Big Data"
+      ]
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "info": {
+        "industry": "IT Services",
+        "headquarters": "Mumbai, India",
+        "website": "https://www.tcs.com",
+        "founded": 1968
+      },
+      "interview_process": {
+        "rounds": [
+          "Written Test",
+          "Technical Interview",
+          "Managerial Interview",
+          "HR Interview"
+        ],
+        "focus_areas": [
+          "Technical Skills",
+          "Aptitude",
+          "Behavioral Traits"
+        ]
+      },
+      "tech_stack": [
+        "Java",
+        ".NET",
+        "Mainframe",
+        "Cloud Computing",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Amazon",
+      "info": {
+        "industry": "E-commerce",
+        "headquarters": "Seattle, WA",
+        "website": "https://www.amazon.com",
+        "founded": 1994
+      },
+      "interview_process": {
+        "rounds": [
+          "Online Coding Test",
+          "Technical Interviews",
+          "Bar Raiser Round",
+          "HR Round"
+        ],
+        "focus_areas": [
+          "Data Structures",
+          "Algorithms",
+          "System Design",
+          "Leadership Principles"
+        ]
+      },
+      "tech_stack": [
+        "Java",
+        "C++",
+        "Python",
+        "AWS",
+        "React"
+      ]
+    },
+    {
+      "name": "Wipro",
+      "info": {
+        "industry": "IT Services",
+        "headquarters": "Bengaluru, India",
+        "website": "https://www.wipro.com",
+        "founded": 1945
+      },
+      "interview_process": {
+        "rounds": [
+          "Online Assessment",
+          "Technical Interview",
+          "HR Interview"
+        ],
+        "focus_areas": [
+          "Aptitude",
+          "Technical Knowledge",
+          "Communication Skills"
+        ]
+      },
+      "tech_stack": [
+        "Java",
+        "Python",
+        "Cloud Services",
+        "Data Analytics"
+      ]
+    }
+  ]
+}

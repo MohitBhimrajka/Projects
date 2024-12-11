@@ -1,0 +1,79 @@
+{
+  "technical_skills": {
+    "programming_languages": [
+      {
+        "name": "Python",
+        "topics": [
+          "Data Structures",
+          "OOP",
+          "Web Frameworks (Django, Flask)",
+          "Data Science Libraries (NumPy, Pandas)"
+        ]
+      },
+      {
+        "name": "Java",
+        "topics": [
+          "Core Java",
+          "Spring Framework",
+          "Microservices",
+          "Concurrency"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "topics": [
+          "ES6+",
+          "Node.js",
+          "React",
+          "Angular"
+        ]
+      },
+      {
+        "name": "C++",
+        "topics": [
+          "STL",
+          "Memory Management",
+          "Templates",
+          "Multithreading"
+        ]
+      }
+    ],
+    "web_technologies": [
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "SASS",
+      "RESTful APIs"
+    ],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Oracle",
+      "Redis"
+    ],
+    "cloud_services": [
+      "AWS",
+      "Azure",
+      "Google Cloud Platform",
+      "Docker",
+      "Kubernetes"
+    ],
+    "data_analysis": [
+      "Machine Learning",
+      "Deep Learning",
+      "Data Visualization",
+      "Big Data (Hadoop, Spark)"
+    ]
+  },
+  "soft_skills": [
+    "Communication",
+    "Team Collaboration",
+    "Problem Solving",
+    "Leadership",
+    "Time Management",
+    "Critical Thinking",
+    "Adaptability",
+    "Creativity"
+  ]
+}

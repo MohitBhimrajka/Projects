@@ -1,0 +1,13 @@
+user_id,resume,skills,experience,education,achievements,preferences
+USR_1002,resumes/USR_1002/resume.pdf,"['Python', 'Java']",2 years,"B.Tech in Computer Science, IIT Delhi","Dean's List, Coding Competition Winner","Full-time, Bengaluru"
+USR_1003,resumes/USR_1003/resume.pdf,"['Machine Learning', 'Data Analysis']",3 years,"B.Tech in Data Science, IIT Bombay","Published Research Papers","Full-time, Hyderabad"
+USR_1004,resumes/USR_1004/resume.pdf,"['JavaScript', 'React']",1 year,"B.E. in Information Technology, NIT Trichy","Best Project Award","Internship, Remote"
+USR_1005,resumes/USR_1005/resume.pdf,"['DevOps', 'AWS']",4 years,"M.Tech in Software Engineering, IISc Bangalore","AWS Certified Solutions Architect","Full-time, Bengaluru"
+USR_1006,resumes/USR_1006/resume.pdf,"['Python', 'TensorFlow']",2 years,"B.Tech in Computer Science, BITS Pilani","National Hackathon Winner","Full-time, Pune"
+USR_1007,resumes/USR_1007/resume.pdf,"['Cybersecurity', 'Network Security']",5 years,"M.Tech in Cybersecurity, IIIT Hyderabad","Certified Ethical Hacker","Full-time, Gurgaon"
+USR_1008,resumes/USR_1008/resume.pdf,"['Project Management', 'Agile']",6 years,"MBA in Information Systems, IIM Ahmedabad","PMP Certified","Full-time, Mumbai"
+USR_1009,resumes/USR_1009/resume.pdf,"['QA Testing', 'Selenium']",3 years,"B.Sc. in Computer Science, Delhi University","Best Tester Award","Full-time, Noida"
+USR_1010,resumes/USR_1010/resume.pdf,"['C++', 'Embedded Systems']",2 years,"B.Tech in Electronics, VIT Vellore","Patent Holder","Full-time, Chennai"
+USR_1011,resumes/USR_1011/resume.pdf,"['UI/UX Design', 'Adobe XD']",1 year,"Diploma in Design, NID Ahmedabad","Design Excellence Award","Internship, Bengaluru"
+USR_1012,resumes/USR_1012/resume.pdf,"['Blockchain', 'Ethereum']",2 years,"B.Tech in Computer Science, SRM University","Blockchain Hackathon Winner","Full-time, Hyderabad"
+USR_1013,resumes/USR_1013/resume.pdf,"['Artificial Intelligence', 'NLP']",3 years,"M.Tech in AI, IIT Kharagpur","Published AI Research","Full-time, Kolkata"

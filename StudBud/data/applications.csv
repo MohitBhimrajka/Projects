@@ -1,0 +1,3 @@
+application_id,user_id,job_id,applied_date,status
+APP_1001,USR_002,JOB_1001,2024-01-15,Accepted
+APP_1002,USR_003,JOB_1002,2024-02-20,Pending

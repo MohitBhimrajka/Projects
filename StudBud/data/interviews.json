@@ -1,0 +1,127 @@
+{
+  "technical_questions": [
+    {
+      "type": "Data Structures and Algorithms",
+      "difficulty": "Medium",
+      "question": "Implement a function to check if a binary tree is a valid binary search tree.",
+      "topics": [
+        "Trees",
+        "Binary Search Tree",
+        "Recursion",
+        "In-order Traversal"
+      ],
+      "companies": [
+        "Amazon",
+        "Microsoft",
+        "Google",
+        "Flipkart"
+      ]
+    },
+    {
+      "type": "Algorithms",
+      "difficulty": "Hard",
+      "question": "Solve the traveling salesman problem using dynamic programming.",
+      "topics": [
+        "Dynamic Programming",
+        "Graph Theory",
+        "Optimization",
+        "NP-Hard Problems"
+      ],
+      "companies": [
+        "Adobe",
+        "Samsung",
+        "Goldman Sachs"
+      ]
+    },
+    {
+      "type": "System Design",
+      "difficulty": "Hard",
+      "question": "Design a scalable URL shortening service like TinyURL.",
+      "topics": [
+        "System Design",
+        "Scalability",
+        "Databases",
+        "Caching",
+        "Load Balancing"
+      ],
+      "companies": [
+        "Twitter",
+        "Google",
+        "Uber"
+      ]
+    },
+    {
+      "type": "Programming",
+      "difficulty": "Easy",
+      "question": "Write a program to reverse a string without using built-in functions.",
+      "topics": [
+        "Strings",
+        "Loops",
+        "Basic Programming"
+      ],
+      "companies": [
+        "Infosys",
+        "Wipro",
+        "TCS"
+      ]
+    }
+  ],
+  "hr_questions": [
+    {
+      "category": "Teamwork",
+      "question": "Describe a situation where you worked as part of a team to achieve a goal.",
+      "tips": [
+        "Use the STAR method",
+        "Highlight your role and contributions",
+        "Emphasize collaboration"
+      ]
+    },
+    {
+      "category": "Conflict Resolution",
+      "question": "Tell me about a time you had a conflict with a peer and how you resolved it.",
+      "tips": [
+        "Stay professional",
+        "Focus on communication",
+        "Show willingness to compromise"
+      ]
+    },
+    {
+      "category": "Adaptability",
+      "question": "How do you handle changes in project scope or tight deadlines?",
+      "tips": [
+        "Demonstrate flexibility",
+        "Provide examples",
+        "Emphasize time management skills"
+      ]
+    }
+  ],
+  "interview_tips": [
+    {
+      "phase": "Before Interview",
+      "tips": [
+        "Research the company and role",
+        "Review your resume and projects",
+        "Practice common interview questions",
+        "Prepare questions to ask the interviewer"
+      ]
+    },
+    {
+      "phase": "During Interview",
+      "tips": [
+        "Listen carefully to questions",
+        "Think aloud during problem-solving",
+        "Maintain good posture and eye contact",
+        "Be honest if you don't know an answer"
+      ]
+    },
+    {
+      "phase": "After Interview",
+      "tips": [
+        "Send a thank-you email",
+        "Reflect on your performance",
+        "Note areas for improvement",
+        "Stay patient during the response period"
+      ]
+    }
+  ]
+}

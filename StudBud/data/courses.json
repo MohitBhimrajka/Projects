@@ -1,0 +1,83 @@
+{
+  "preparation_courses": [
+    {
+      "title": "Data Structures and Algorithms",
+      "duration": "12 weeks",
+      "topics": [
+        "Arrays and Strings",
+        "Linked Lists",
+        "Stacks and Queues",
+        "Trees and Graphs",
+        "Sorting and Searching",
+        "Dynamic Programming",
+        "Greedy Algorithms",
+        "Hash Tables"
+      ],
+      "resources": [
+        "LeetCode",
+        "HackerRank",
+        "GeeksforGeeks",
+        "Coursera DSA Specialization"
+      ]
+    },
+    {
+      "title": "Full Stack Web Development",
+      "duration": "16 weeks",
+      "topics": [
+        "HTML & CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Deployment",
+        "RESTful APIs"
+      ],
+      "resources": [
+        "freeCodeCamp",
+        "Codecademy",
+        "Udemy Full Stack Course",
+        "MDN Web Docs"
+      ]
+    },
+    {
+      "title": "Machine Learning and AI",
+      "duration": "14 weeks",
+      "topics": [
+        "Linear Algebra",
+        "Probability and Statistics",
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Neural Networks",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Computer Vision"
+      ],
+      "resources": [
+        "Andrew Ng's ML Course",
+        "TensorFlow Documentation",
+        "Kaggle",
+        "Fast.ai"
+      ]
+    },
+    {
+      "title": "Interview Preparation Bootcamp",
+      "duration": "6 weeks",
+      "topics": [
+        "Resume Writing",
+        "Aptitude Tests",
+        "Mock Interviews",
+        "Group Discussions",
+        "HR Interview Questions",
+        "Communication Skills",
+        "Professional Etiquette"
+      ],
+      "resources": [
+        "Glassdoor Interview Questions",
+        "Big Interview",
+        "InterviewBit",
+        "YouTube Tutorials"
+      ]
+    }
+  ]
+}

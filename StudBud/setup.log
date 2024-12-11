@@ -1,0 +1,141 @@
+2024-11-15 13:42:37,778 - INFO - Starting setup process...
+2024-11-15 13:42:37,778 - INFO - Python version 3.12 OK
+2024-11-15 13:42:37,780 - INFO - Loaded environment variables
+2024-11-15 13:42:37,780 - INFO - Created directory: data
+2024-11-15 13:42:37,780 - INFO - Created directory: data/backups
+2024-11-15 13:42:37,780 - INFO - Created directory: data/cache
+2024-11-15 13:42:37,780 - INFO - Created directory: static
+2024-11-15 13:42:37,780 - INFO - Created directory: static/images
+2024-11-15 13:42:37,780 - INFO - Created directory: pages
+2024-11-15 13:42:37,780 - INFO - Created directory: backend
+2024-11-15 13:42:37,950 - ERROR - Missing packages: plotly, jwt, python-dotenv, ollama
+2024-11-15 13:42:37,950 - INFO - Installing missing packages...
+2024-11-15 13:42:46,533 - INFO - Successfully installed missing packages
+2024-11-15 13:42:46,543 - ERROR - Error checking Ollama: 'str' object has no attribute 'get'
+2024-11-15 13:44:26,720 - INFO - Starting setup process...
+2024-11-15 13:44:26,721 - INFO - Python version 3.12 OK
+2024-11-15 13:44:26,722 - INFO - Loaded environment variables
+2024-11-15 13:44:26,722 - INFO - Created directory: data
+2024-11-15 13:44:26,722 - INFO - Created directory: data/backups
+2024-11-15 13:44:26,722 - INFO - Created directory: data/cache
+2024-11-15 13:44:26,722 - INFO - Created directory: static
+2024-11-15 13:44:26,722 - INFO - Created directory: static/images
+2024-11-15 13:44:26,722 - INFO - Created directory: pages
+2024-11-15 13:44:26,722 - INFO - Created directory: backend
+2024-11-15 13:44:27,329 - ERROR - Missing packages: python-dotenv
+2024-11-15 13:44:27,329 - INFO - Installing missing packages...
+2024-11-15 13:44:27,589 - INFO - Successfully installed missing packages
+2024-11-15 13:44:27,595 - ERROR - Error checking Ollama: 'str' object has no attribute 'get'
+2024-11-15 17:56:48,898 - INFO - Starting setup process...
+2024-11-15 17:56:48,898 - INFO - Python version: 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ]
+2024-11-15 17:56:48,924 - INFO - Platform: macOS-15.1-arm64-arm-64bit
+2024-11-15 17:56:48,924 - INFO - Starting setup process...
+2024-11-15 17:56:48,924 - INFO - Python version 3.12 OK
+2024-11-15 17:56:48,926 - INFO - Loaded environment variables
+2024-11-15 17:56:48,926 - INFO - Created directory: data
+2024-11-15 17:56:48,926 - INFO - Created directory: data/backups
+2024-11-15 17:56:48,926 - INFO - Created directory: data/cache
+2024-11-15 17:56:48,926 - INFO - Created directory: static
+2024-11-15 17:56:48,926 - INFO - Created directory: static/images
+2024-11-15 17:56:48,926 - INFO - Created directory: pages
+2024-11-15 17:56:48,926 - INFO - Created directory: backend
+2024-11-15 17:56:49,550 - ERROR - Missing packages: python-dotenv, ollama
+2024-11-15 17:56:49,550 - INFO - Installing missing packages...
+2024-11-15 17:56:50,144 - INFO - Successfully installed missing packages
+2024-11-15 17:56:50,166 - INFO - Ollama is installed
+2024-11-15 17:56:50,187 - INFO - Ollama service is already running
+2024-11-15 17:56:50,201 - INFO - gemma2:27b model is already installed
+2024-11-15 17:56:50,202 - INFO - File exists: data/jobs.csv
+2024-11-15 17:56:50,202 - INFO - File exists: data/faq.csv
+2024-11-15 17:56:50,202 - INFO - File exists: data/users.csv
+2024-11-15 17:56:50,202 - INFO - File exists: data/applications.csv
+2024-11-15 17:56:50,202 - INFO - File exists: data/companies.json
+2024-11-15 17:56:50,202 - INFO - File exists: data/skills.json
+2024-11-15 17:56:50,203 - INFO - File exists: data/courses.json
+2024-11-15 17:56:50,203 - INFO - File exists: data/interviews.json
+2024-11-15 17:56:50,203 - INFO - Verifying directories...
+2024-11-15 17:56:50,203 - INFO - ✓ Directory verified: data
+2024-11-15 17:56:50,203 - INFO - ✓ Directory verified: data/backups
+2024-11-15 17:56:50,203 - INFO - ✓ Directory verified: data/cache
+2024-11-15 17:56:50,203 - INFO - ✓ Directory verified: static
+2024-11-15 17:56:50,203 - INFO - ✓ Directory verified: static/images
+2024-11-15 17:56:50,203 - INFO - ✓ Directory verified: pages
+2024-11-15 17:56:50,203 - INFO - ✓ Directory verified: backend
+2024-11-15 17:56:50,203 - INFO - Verifying data files...
+2024-11-15 17:56:50,203 - INFO - ✓ File exists: data/jobs.csv
+2024-11-15 17:56:50,203 - INFO - ✓ File exists: data/faq.csv
+2024-11-15 17:56:50,203 - INFO - ✓ File exists: data/users.csv
+2024-11-15 17:56:50,203 - INFO - ✓ File exists: data/applications.csv
+2024-11-15 17:56:50,203 - INFO - ✓ File exists: data/companies.json
+2024-11-15 17:56:50,203 - INFO - ✓ File exists: data/skills.json
+2024-11-15 17:56:50,203 - INFO - ✓ File exists: data/courses.json
+2024-11-15 17:56:50,203 - INFO - ✓ File exists: data/interviews.json
+2024-11-15 17:56:50,203 - INFO - Verifying file contents...
+2024-11-15 17:56:50,208 - INFO - ✓ Verified jobs.csv structure
+2024-11-15 17:56:50,208 - INFO - ✓ Verified faq.csv structure
+2024-11-15 17:56:50,209 - INFO - ✓ Verified users.csv structure
+2024-11-15 17:56:50,209 - ERROR - File verification failed: Error tokenizing data. C error: Expected 4 fields in line 6, saw 8
+
+2024-11-15 17:56:50,209 - ERROR - Setup verification failed
+2024-11-15 17:58:15,845 - INFO - Starting setup process...
+2024-11-15 17:58:15,845 - INFO - Python version: 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ]
+2024-11-15 17:58:15,856 - INFO - Platform: macOS-15.1-arm64-arm-64bit
+2024-11-15 17:58:15,856 - INFO - Starting setup process...
+2024-11-15 17:58:15,856 - INFO - Python version 3.12 OK
+2024-11-15 17:58:15,858 - INFO - Loaded environment variables
+2024-11-15 17:58:15,858 - INFO - Created directory: data
+2024-11-15 17:58:15,858 - INFO - Created directory: data/backups
+2024-11-15 17:58:15,858 - INFO - Created directory: data/cache
+2024-11-15 17:58:15,858 - INFO - Created directory: static
+2024-11-15 17:58:15,858 - INFO - Created directory: static/images
+2024-11-15 17:58:15,858 - INFO - Created directory: pages
+2024-11-15 17:58:15,858 - INFO - Created directory: backend
+2024-11-15 17:58:16,085 - ERROR - Missing packages: python-dotenv
+2024-11-15 17:58:16,085 - INFO - Installing missing packages...
+2024-11-15 17:58:16,506 - INFO - Successfully installed missing packages
+2024-11-15 17:58:16,527 - INFO - Ollama is installed
+2024-11-15 17:58:16,532 - INFO - Ollama service is already running
+2024-11-15 17:58:16,546 - INFO - gemma2:27b model is already installed
+2024-11-15 17:58:16,547 - INFO - Creating data/jobs.csv
+2024-11-15 17:58:16,549 - INFO - Created /Users/mohit/code/studbud/data/jobs.csv
+2024-11-15 17:58:16,549 - INFO - Creating data/faq.csv
+2024-11-15 17:58:16,550 - INFO - Created /Users/mohit/code/studbud/data/faq.csv
+2024-11-15 17:58:16,550 - INFO - Creating data/users.csv
+2024-11-15 17:58:16,550 - INFO - Created /Users/mohit/code/studbud/data/users.csv
+2024-11-15 17:58:16,550 - INFO - Creating data/applications.csv
+2024-11-15 17:58:16,550 - INFO - Created /Users/mohit/code/studbud/data/applications.csv
+2024-11-15 17:58:16,550 - INFO - Creating data/companies.json
+2024-11-15 17:58:16,550 - INFO - Created /Users/mohit/code/studbud/data/companies.json
+2024-11-15 17:58:16,550 - INFO - Creating data/skills.json
+2024-11-15 17:58:16,550 - INFO - Created /Users/mohit/code/studbud/data/skills.json
+2024-11-15 17:58:16,550 - INFO - Creating data/courses.json
+2024-11-15 17:58:16,551 - INFO - Created /Users/mohit/code/studbud/data/courses.json
+2024-11-15 17:58:16,551 - INFO - Creating data/interviews.json
+2024-11-15 17:58:16,551 - INFO - Created /Users/mohit/code/studbud/data/interviews.json
+2024-11-15 17:58:16,551 - INFO - Verifying directories...
+2024-11-15 17:58:16,551 - INFO - ✓ Directory verified: data
+2024-11-15 17:58:16,551 - INFO - ✓ Directory verified: data/backups
+2024-11-15 17:58:16,551 - INFO - ✓ Directory verified: data/cache
+2024-11-15 17:58:16,551 - INFO - ✓ Directory verified: static
+2024-11-15 17:58:16,551 - INFO - ✓ Directory verified: static/images
+2024-11-15 17:58:16,551 - INFO - ✓ Directory verified: pages
+2024-11-15 17:58:16,551 - INFO - ✓ Directory verified: backend
+2024-11-15 17:58:16,551 - INFO - Verifying data files...
+2024-11-15 17:58:16,551 - INFO - ✓ File exists: data/jobs.csv
+2024-11-15 17:58:16,551 - INFO - ✓ File exists: data/faq.csv
+2024-11-15 17:58:16,551 - INFO - ✓ File exists: data/users.csv
+2024-11-15 17:58:16,551 - INFO - ✓ File exists: data/applications.csv
+2024-11-15 17:58:16,551 - INFO - ✓ File exists: data/companies.json
+2024-11-15 17:58:16,551 - INFO - ✓ File exists: data/skills.json
+2024-11-15 17:58:16,551 - INFO - ✓ File exists: data/courses.json
+2024-11-15 17:58:16,551 - INFO - ✓ File exists: data/interviews.json
+2024-11-15 17:58:16,551 - INFO - Verifying file contents...
+2024-11-15 17:58:16,552 - INFO - ✓ Verified jobs.csv structure
+2024-11-15 17:58:16,552 - INFO - ✓ Verified faq.csv structure
+2024-11-15 17:58:16,552 - INFO - ✓ Verified users.csv structure
+2024-11-15 17:58:16,553 - INFO - ✓ Verified applications.csv structure
+2024-11-15 17:58:16,553 - INFO - ✓ Verified companies.json content
+2024-11-15 17:58:16,553 - INFO - ✓ Verified skills.json content
+2024-11-15 17:58:16,553 - INFO - ✓ Verified courses.json content
+2024-11-15 17:58:16,553 - INFO - ✓ Verified interviews.json content
+2024-11-15 17:58:16,553 - INFO - Setup completed successfully!

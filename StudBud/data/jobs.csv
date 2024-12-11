@@ -1,0 +1,13 @@
+job_id,company,title,description,skills,salary_range,location,job_type,posted_date,status,requirements
+JOB_1001,Google,Software Engineer,"Join our team to develop scalable software solutions.","Python,Java,C++,Algorithms",30-45 LPA,Bengaluru,Full-time,2024-01-10,Open,"Bachelor's Degree,2+ years experience"
+JOB_1002,Microsoft,Data Scientist,"Work on cutting-edge data analytics and machine learning projects.","Python,R,Machine Learning,Statistics",28-50 LPA,Hyderabad,Full-time,2024-02-15,Open,"Master's Degree,Experience with ML algorithms"
+JOB_1003,Amazon,Backend Developer,"Develop and maintain backend services for our e-commerce platform.","Java,Spring Boot,Microservices,AWS",25-40 LPA,Chennai,Full-time,2024-03-05,Open,"Bachelor's Degree,Knowledge of AWS"
+JOB_1004,TCS,Junior Developer,"Contribute to various client projects across different domains.","C#,.NET,SQL",6-10 LPA,Mumbai,Full-time,2024-04-20,Open,"Bachelor's Degree"
+JOB_1005,Infosys,UI/UX Designer,"Design intuitive user interfaces for web and mobile applications.","Adobe XD,Figma,Sketch,User Research",8-12 LPA,Pune,Full-time,2024-05-18,Open,"Portfolio of previous work"
+JOB_1006,Wipro,DevOps Engineer,"Implement and manage CI/CD pipelines for software deployment.","Jenkins,Docker,Kubernetes,Linux",12-18 LPA,Bengaluru,Full-time,2024-06-25,Open,"Experience with CI/CD tools"
+JOB_1007,Flipkart,Mobile App Developer,"Develop high-performance mobile applications for Android and iOS.","Java,Kotlin,Swift,React Native",15-25 LPA,Bengaluru,Full-time,2024-07-30,Open,"Experience with mobile development"
+JOB_1008,Accenture,Cybersecurity Analyst,"Monitor and protect systems from cyber threats.","Cybersecurity,Network Security,SIEM",10-15 LPA,Gurgaon,Full-time,2024-08-12,Open,"Security certifications"
+JOB_1009,IBM,Cloud Engineer,"Design and implement cloud solutions for clients.","AWS,Azure,Cloud Architecture",20-30 LPA,Noida,Full-time,2024-09-05,Open,"Cloud certifications"
+JOB_1010,HCL,QA Tester,"Perform testing of software applications to ensure quality.","Manual Testing,Automation Testing,Selenium",5-9 LPA,Chennai,Full-time,2024-10-10,Open,"Attention to detail"
+JOB_1011,Adobe,Graphic Designer,"Create visual concepts to communicate ideas.","Photoshop,Illustrator,InDesign",10-16 LPA,Bengaluru,Full-time,2024-10-25,Open,"Creativity,Design portfolio"
+JOB_1012,Capgemini,AI Engineer,"Develop AI models and integrate them into applications.","Python,TensorFlow,Keras,NLP",18-28 LPA,Pune,Full-time,2024-11-01,Open,"Experience with AI technologies"

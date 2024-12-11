@@ -1,0 +1,11 @@
+chat_id,user_id,timestamp,role,content,context
+CHAT_1001,USR_1002,2024-01-15T09:20:00.000000,user,"I have applied for the Software Engineer position. What's the next step?","Application Process"
+CHAT_1002,USR_1002,2024-01-15T09:21:00.000000,assistant,"Your application is under review. You'll be notified via email.","Application Process"
+CHAT_1003,USR_1003,2024-02-20T10:35:00.000000,user,"When is my interview scheduled?","Interview Scheduling"
+CHAT_1004,USR_1003,2024-02-20T10:36:00.000000,assistant,"Your interview is scheduled for March 1st at 10 AM IST.","Interview Scheduling"
+CHAT_1005,USR_1004,2024-03-10T11:50:00.000000,user,"Can you provide tips for the upcoming interview?","Interview Preparation"
+CHAT_1006,USR_1004,2024-03-10T11:51:00.000000,assistant,"Sure, focus on data structures and algorithms, and review your projects.","Interview Preparation"
+CHAT_1007,USR_1005,2024-04-05T12:05:00.000000,user,"I've received an offer. How do I accept it?","Offer Acceptance"
+CHAT_1008,USR_1005,2024-04-05T12:06:00.000000,assistant,"You can accept the offer through the portal or contact HR directly.","Offer Acceptance"
+CHAT_1009,USR_1006,2024-05-25T13:20:00.000000,user,"Can I get feedback on my application?","Application Feedback"
+CHAT_1010,USR_1006,2024-05-25T13:21:00.000000,assistant,"Yes, HR will provide detailed feedback within a week.","Application Feedback"
