@@ -50,8 +50,5 @@ Each project directory includes detailed instructions in its respective README f
 ## Contact
 For any questions or collaboration opportunities, feel free to connect with me:
 
-- **GitHub:** [Your GitHub Profile Link](#)
-- **Email:** mohitbhimrajka5@gmail.com (#)
-- **Email:** [mohitbhimrajka5@gmail.com] (#)
-- - **Email:** mohitbhimrajka5@.com (mohitbhimrajka5@gmail.com)
-- **LinkedIn** https://www.linkedin.com/in/mohit-bhimrajka/ (#)
+- **Email:** mohitbhimrajka5@gmail.com
+- **LinkedIn** https://www.linkedin.com/in/mohit-bhimrajka/
